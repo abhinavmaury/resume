@@ -1,5 +1,4 @@
 # Resume Parser
-Your not so typical resume parser
 Instructions
 ========
 Follow these to have a sneak peek of what's going on  
